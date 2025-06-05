@@ -1,0 +1,18 @@
+.hidden{
+    display: none;
+}
+.view-more{
+    background-color: yellowgreen;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: none;
+    border: none;
+    cursor: pointer;
+}
+/* certificates */
+@media (min-width: 1300px) {
+    #certificates img{
+        max-width: 200px;
+    }
+}
